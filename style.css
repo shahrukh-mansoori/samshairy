@@ -1,0 +1,50 @@
+
+.navbar {
+  background-color: yellow !important;
+    font-weight: bold;
+    font-size: large; 
+   
+   
+}
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align:middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+   background-color:white !important;
+   color: black !important;
+   box-sizing: border-box;
+   
+   
+
+    
+    
+}
+.three {
+    margin-left: 900px;
+}
+
+
+.two {
+    word-spacing: 0.5rem;
+    color: rgba(238, 24, 24, 0.678);
+}
+.heading {
+    color: rgb(175, 122, 9);
+    text-shadow: rgb(58, 50, 44);
+    text-align: center;
+    font-weight: bold;
+    
+    
+}
+@media screen and (min-width 400px) {
+    .card {
+        text-align: center;
+        
+        
+    }
+    
+}
